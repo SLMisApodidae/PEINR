@@ -1,7 +1,7 @@
 # PEINR
 A INR method for High-Fidelity Flow Field Reconstruction
 
-A PyTorch implementation of PEINR based on ICML2025 paper PEINR: A Physics-enhanced Implicit Neural Representation for High-Fidelity
+A PyTorch implementation of PEINR based on ICML2025 paper: PEINR: A Physics-enhanced Implicit Neural Representation for High-Fidelity
 Flow Field Reconstruction.
 
 # requirement
