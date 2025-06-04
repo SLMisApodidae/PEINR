@@ -1,5 +1,6 @@
 # PEINR
 A INR method for High-Fidelity Flow Field Reconstruction
+
 A PyTorch implementation of PEINR based on ICML2025 paper PEINR: A Physics-enhanced Implicit Neural Representation for High-Fidelity
 Flow Field Reconstruction.
 
@@ -20,6 +21,8 @@ The volume at each time step is saved as a .dat or .plt file with the little-end
 
 # train
 first change the data path in dataio.py, then 
-`python main.py --train`
+`python main.py --train
+
+`
 # inference
 `python main.py --inf`
