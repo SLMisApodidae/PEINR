@@ -21,7 +21,7 @@ The volume at each time step is saved as a .dat or .plt file with the little-end
 
 # train
 first change the data path in dataio.py, then 
-`python main.py --train
+`python main.py --train`
 
 `
 # inference
